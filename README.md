@@ -9,4 +9,6 @@
 - 🧠 On a constant path of learning more and more..
 - 💻 Technologies I like to work with: <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="20" valign="middle"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" height="30" valign="middle"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" height="30" valign="middle"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" height="30" valign="middle"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" height="30" valign="middle"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" height="30" valign="middle"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" height="30" valign="middle"> 
 
+<img src="https://github-readme-stats.vercel.app/api?username=htmujahid&show_icons=true">
+
 ⭐️ From [Altaf Ahmad](https://github.com/altafahmad1)
